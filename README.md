@@ -18,6 +18,3 @@ Sistema integral de gestión empresarial desarrollado como Trabajo Integrador pa
 El proyecto incluye un conjunto de pruebas unitarias que validan la lógica de negocio en cada módulo (Clientes, Compras, Productos y Viajes), asegurando la integridad del sistema ante cambios.
 
 <img width="1513" height="893" alt="EWS" src="https://github.com/user-attachments/assets/724e2378-1f07-4e31-8f91-0b0b44f80cb0" />
-
-<img width="502" height="612" alt="PantallaPrincipal" src="https://github.com/user-attachments/assets/64ee49a2-204e-4163-b60c-308bce12b4d0" />
-

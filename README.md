@@ -20,5 +20,3 @@ El proyecto incluye un conjunto de pruebas unitarias que validan la lógica de n
 ## 👥 Equipo de Desarrollo
 * [Franz Heinen](https://github.com/FranzHeinen)
 * [Felipe Williner](https://github.com/felipewilliner)
-
-<img width="1513" height="893" alt="EWS" src="https://github.com/user-attachments/assets/724e2378-1f07-4e31-8f91-0b0b44f80cb0" />

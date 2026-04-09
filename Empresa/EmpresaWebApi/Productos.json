@@ -1,0 +1,44 @@
+[
+  {
+    "CodigoUnico": 1,
+    "Nombre": "pelota",
+    "Marca": "bullpadel",
+    "AltoCajaCm": 5.0,
+    "AnchoCajaCm": 3.0,
+    "ProfundidadCajaCm": 2.0,
+    "PrecioUnitario": 5000.0,
+    "StockMinimo": 5,
+    "CantidadStock": 1,
+    "FechaCreacion": "2024-10-03T10:59:51.22844-03:00",
+    "FechaActualizacion": "2024-11-08T18:20:05.8068961-03:00",
+    "FechaEliminacion": null
+  },
+  {
+    "CodigoUnico": 3,
+    "Nombre": "Bolso",
+    "Marca": "Bullpadel",
+    "AltoCajaCm": 2.0,
+    "AnchoCajaCm": 2.0,
+    "ProfundidadCajaCm": 1.0,
+    "PrecioUnitario": 100.0,
+    "StockMinimo": 20,
+    "CantidadStock": 5,
+    "FechaCreacion": "2024-11-08T18:22:36.4342227-03:00",
+    "FechaActualizacion": null,
+    "FechaEliminacion": null
+  },
+  {
+    "CodigoUnico": 2,
+    "Nombre": "grip",
+    "Marca": "bullpadel",
+    "AltoCajaCm": 5.0,
+    "AnchoCajaCm": 5.0,
+    "ProfundidadCajaCm": 5.0,
+    "PrecioUnitario": 3000.0,
+    "StockMinimo": 10,
+    "CantidadStock": 20,
+    "FechaCreacion": "2024-10-03T10:59:51.22844-03:00",
+    "FechaActualizacion": "2024-11-08T19:28:14.7608442-03:00",
+    "FechaEliminacion": null
+  }
+]

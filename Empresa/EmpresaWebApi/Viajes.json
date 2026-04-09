@@ -1,0 +1,15 @@
+[
+  {
+    "Codigo": 1,
+    "PatenteCamionetaAsignada": "AA0030AD",
+    "FechaEntregaPosibleDesde": "2024-12-23T00:00:00Z",
+    "FechaEntregaPosibleHasta": "2024-12-29T00:00:00Z",
+    "Capacidad": 3270.0,
+    "CodigosCompras": [
+      6
+    ],
+    "FechaCreacion": "2024-10-27T22:30:33.5398223-03:00",
+    "FechaActualizacion": null,
+    "FechaEliminacion": null
+  }
+]

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asignación de Viaje</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Asignación de Viaje</h1>
+
+    <form id="asignarViajeForm">
+        <label for="fechaDesde">Fecha Desde:</label>
+        <input type="date" id="fechaDesde" name="fechaDesde" required>
+        <br>
+
+        <label for="fechaHasta">Fecha Hasta:</label>
+        <input type="date" id="fechaHasta" name="fechaHasta" required>
+        <br>
+
+        <button type="submit">Asignar Viaje</button>
+    </form>
+
+    <div id="resultado"></div>
+    <button onclick="location.href ='Gestion.html'">Volver al menu principal</button>
+    <script src="Viajes.js"></script>
+</body>
+</html>

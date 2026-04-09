@@ -1,0 +1,23 @@
+[
+  {
+    "Tipo": "Doble Cabina",
+    "Patente": "AA0030AD",
+    "TamañoCargaCm3": 3300.0,
+    "DistanciaMaxKm": 350.0
+  },
+  {
+
+    "Tipo": "Furgón",
+    "Patente": "AE7180J",
+    "TamañoCargaCm3": 5800,
+    "DistanciaMaxKm": 550
+  },
+  {
+    "Tipo": "Piso Cabina",
+    "Patente": "AB5780EZJ16",
+    "TamañoCargaCm3": 6700,
+    "DistanciaMaxKm": 750
+
+  }
+
+]
